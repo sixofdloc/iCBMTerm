@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'Term' target in the 'Term' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define SQL_DEBUG 1
